@@ -16,5 +16,28 @@ Significa que esta linguagem não está restrita a apenas um tipo de sistema ou 
 ### Multiparadigma
 Como uma linguagem de multiparadigmas, o JavaScript tende a suportar diversos estilos, paradigmas, de programação, como programação imperativa, programação funcional, orientada a eventos, orientação a objetos e baseado em protótipos.
 
+## Neste curso, você aprenderá sobre:
+
+1. ECMAScript
+2. Instalação
+3. Console
+4. Criando um arquivo JavaScript
+5. Qual a função do JavaScript nas páginas Web?
+6. Variáveis e Tipos de Dados
+7. Mutação de variável
+8. Operadores
+9. Decisões Lógicas
+10. Funções
+11. Declarações e Expressões
+12. Arrays
+13. Objetos e Propriedades
+14. Laços e Interações
+15. Comentários
+16. Como o JavaScript Funciona - Interpretador, Motor e Analisador
+17. Como o JavaScript Funciona - Contexto de Execução
+18. Bind, Call e Apply
+19. Cadeia de Escopo
+20. Pilha de Execução
+
 ## **Formato do conteúdo**
 Este é um guia prático para você aprender a utilizar JavaScript nos seus projetos.
